@@ -74,7 +74,8 @@ public class Helloworld : MonoBehaviour
 
 ```
 - Повесить скрипт на объект и запустить проект.
-  ![image](https://github.com/user-attachments/assets/b563b643-5326-40c2-b353-5d4820c6d2d5)
+![Скриншот 22-12-2024 073018](https://github.com/user-attachments/assets/4b1f6a19-df45-41a9-9932-a67004aeafef)
+
 
 
 ## Задание 3
